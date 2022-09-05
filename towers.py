@@ -94,4 +94,4 @@ async def towers(ctx, round_id):
         await ctx.send(embed=em)
 
 
-bot.run('')
+bot.run('your discord bot token here')
