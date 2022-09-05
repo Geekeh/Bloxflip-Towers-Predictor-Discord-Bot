@@ -12,5 +12,5 @@ pip install discord.py   or\
 pip install discord   idk which one
 
 ### join dah server
-https://discord.gg/epb76N5t3M\
+https://discord.gg/jpd
 ## completely random towers predictor bot you could sell i dont care\
