@@ -1,4 +1,4 @@
-# Bloxflip-Mines-Predictor-Discord-Bot
+# Bloxflip-Towers-Predictor-Discord-Bot
 
 ![image](https://user-images.githubusercontent.com/98252854/188499449-3f388d8b-beba-4475-a61d-a82a7c6265fb.png)
 
