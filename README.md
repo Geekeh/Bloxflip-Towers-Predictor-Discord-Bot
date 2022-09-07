@@ -7,6 +7,7 @@
 chance displayed on embed completely random though 🤷‍♂️
 
 ## ⚙️Install all the stuff
+Put your discord bot token at the bottom\
 just run\
 pip install discord.py   or\
 pip install discord   idk which one
