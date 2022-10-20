@@ -13,7 +13,7 @@ pip install discord.py   or\
 pip install discord   idk which one
 
 ### join dah server
-https://discord.gg/jpd
+https://discord.gg/juicy
 ## completely random towers predictor bot DO NOT SELL IT.
 #### if u repost or distribute with no credits im prob gonna take down.
 
