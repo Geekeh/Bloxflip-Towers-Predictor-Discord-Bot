@@ -1,16 +1,15 @@
 # Bloxflip-Towers-Predictor-Discord-Bot
 
-![image](https://user-images.githubusercontent.com/98252854/188499449-3f388d8b-beba-4475-a61d-a82a7c6265fb.png)
+![image](https://user-images.githubusercontent.com/98252854/205468267-80fa22bb-674f-4b6e-a5e9-52683b360631.png)
 
 ## 📝Features and Usage
 .towers (round_id)\
-chance displayed on embed completely random though 🤷‍♂️
+chance displayed on embed completely random♂️
 
 ## ⚙️Install all the stuff
 Put your discord bot token at the bottom\
 just run\
-pip install discord.py   or\
-pip install discord   idk which one
+pip install discord
 
 ### join dah server
 https://discord.gg/juicy
