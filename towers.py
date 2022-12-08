@@ -20,7 +20,6 @@ client = aclient()
 tree = app_commands.CommandTree(client)
 
 @tree.command(name = 'towers', description='towers gamemode')
-@app_commands.checks.has_any_role("Founder")
 async def towers(interaction: discord.Interaction, round_id:str, tile_amount:int):
     if len(round_id) == 36:
         start_time = time.time()
