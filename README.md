@@ -11,8 +11,6 @@ Put your discord bot token at the bottom\
 just run\
 pip install discord
 
-### join dah server
-https://discord.gg/juicy
 ## completely random towers predictor bot DO NOT SELL IT.
 #### if u repost or distribute with no credits im prob gonna take down.
 
